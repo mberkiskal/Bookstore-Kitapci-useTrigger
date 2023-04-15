@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\bin\Debug\p16Bookstore-Trigger.exe.config
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\bin\Debug\p16Bookstore-Trigger.exe
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\bin\Debug\p16Bookstore-Trigger.pdb
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore-Trigger.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore-Trigger.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore_Trigger.Form1.resources
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore_Trigger.Properties.Resources.resources
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore-Trigger.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore-Trigger.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore-Trigger.exe
+C:\Users\mberk\source\repos\p16Bookstore-Trigger\p16Bookstore-Trigger\obj\Debug\p16Bookstore-Trigger.pdb
